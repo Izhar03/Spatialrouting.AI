@@ -39,10 +39,10 @@ Node.js & Express: Powers the server-side logic, including route generation, hin
 Groq API (LLAMA 3 8B Model): For providing hints and scoring based on user input, replacing traditional heuristic methods with AI-driven evaluations.
 
 ## Database
-PostgreSQL : For storing user data, route history, and scores (if tracking across sessions is desired).
+PostgreSQL: For storing user data, key-value routes.
 
 ## Prerequisites
-Node.js and npm installed on your machine.
+Node.js and npm are installed on your machine.
 Groq API Key: Access to the Groq API for the LLAMA 3 8B model.
 
 ## Usage
