@@ -67,5 +67,3 @@ Contributions to DelRoute.AI are welcome! Please fork the repository and submit 
 
 ## License
 This project is licensed under the MIT License.
-
-abc
